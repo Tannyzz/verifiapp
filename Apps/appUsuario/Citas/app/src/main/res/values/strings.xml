@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gestor de Citas</string>
+    <string name="name">Nombre</string>
+    <string name="matri">Numero de Placa</string>
+    <string name="hora">Cita</string>
+    <string name="regi">Registrar</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
